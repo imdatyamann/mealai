@@ -69,3 +69,32 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
 
 
 
+# 3.Sprint Notları 
+- Firebase bağlantısı yapıldı.
+- 
+
+# 3.Sprint Sonu Görselleri
+<img src="https://hizliresim.com/kcw9878.jpg">&nbsp;&nbsp;
+<img src="https://hizliresim.com/9txa226.jpg">&nbsp;&nbsp;
+<img src="hizliresim.com/82oain4.jpg">&nbsp;&nbsp;
+<img src="https://hizliresim.com/r8ndhdg.jpg">&nbsp;&nbsp;
+<img src="https://hizliresim.com/og61a2q.jpg">&nbsp;&nbsp;
+<img src="https://hizliresim.com/o831jb2.jpg">&nbsp;&nbsp;
+<img src="https://hizliresim.com/1zaerd1.jpg">&nbsp;&nbsp;
+<img src="https://hizliresim.com/3wgtjuq">&nbsp;&nbsp;
+
+
+
+
+# Puanlama
+- Sprint içinde tamamlanması tahmin edilen puan 8. 
+- Puan tamamlama: sprint tasklari kolay 1 zor 10 şeklinde olacak şekilde 1-10 arası puanladık ve 2. Sprint için hedef puanımız 8'du.
+
+**Daily Scrum:** 
+
+# Sprint Retrospective
+- Görevleri aksatmadan yapılmaya çalışılacak.
+- Ürün geliştirmeye nasıl daha fazla zaman ayırırız konuşuldu.
+
+# Sprint Review
+- 
