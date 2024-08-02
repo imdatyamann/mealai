@@ -68,4 +68,30 @@ Sprint içerisinde tamamlanması tahmin edilen puan: 31
 - Son kullanıcının kullanabildiği fakat henüz veri ve kayıt işlemlerinin eklenmediği bir sonraki sprint'te ekleneceği belirlendi. Firebase ve stata management eksikleri değerlendirilip ön hazırlık yapıldı. Son kullanıcı için introduction screen'ler eklendi
 
 
+# 3.Sprint Notları 
+- Firebase bağlantısı yapıldı
+- 
 
+# 3.Sprint Sonu Görselleri
+<img src="https://hizliresim.com/kcw9878">&nbsp;&nbsp;
+<img src="https://hizliresim.com/9txa226">&nbsp;&nbsp;
+<img src="https://hizliresim.com/82oain4">&nbsp;&nbsp;
+<img src="https://hizliresim.com/r8ndhdg">&nbsp;&nbsp;
+<img src="https://hizliresim.com/og61a2q">&nbsp;&nbsp;
+<img src="https://hizliresim.com/o831jb2">&nbsp;&nbsp;
+<img src="https://hizliresim.com/1zaerd1">&nbsp;&nbsp;
+
+
+
+# Puanlama
+- Sprint içinde tamamlanması tahmin edilen puan 8. 
+- Puan tamamlama: sprint tasklari kolay 1 zor 10 şeklinde olacak şekilde 1-10 arası puanladık ve 2. Sprint için hedef puanımız 8'du.
+
+**Daily Scrum:**
+
+# Sprint Retrospective
+- Görevler yetiştirilmeye çalışılacak.
+
+
+# Sprint Review
+-
